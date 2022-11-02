@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: bottom center/cover no-repeat;
+  min-height: 100vh; 
+}
+
+.home {
+ background-image: url('/img/exploracao.jpg');
+}
