@@ -1,6 +1,6 @@
 # 🚀 universe-SPA
 
-✅ SPA
+✅ SPA (single, page, Application)
 
 ✅ Alterando comportamento padrão do evento de redirecionamento
 
